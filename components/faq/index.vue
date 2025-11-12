@@ -68,10 +68,10 @@ onMounted(() => {
 const openMap = (id: number) => {
   switch (id) {
     case 1:
-      window.open("https://maps.app.goo.gl/MeVHwiM3wp7bVyz98", "_blank");
+      window.open("https://maps.app.goo.gl/57jasQixdQi97SpH6", "_blank");
       break;
     case 2:
-      window.open("https://maps.app.goo.gl/C2MTWCP6qkDohTMu6", "_blank");
+      window.open("https://maps.app.goo.gl/QhA9PmxVBMwQScEi8", "_blank");
       break;
   }
 };

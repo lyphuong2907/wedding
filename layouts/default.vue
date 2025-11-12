@@ -14,23 +14,23 @@ const handlePreloaderDone = () => {
   }
 };
 useHead({
-  title: "Duong & Diep",
+  title: "Hang & Loi",
   meta: [
-    { name: "description", content: "D&D" },
+    { name: "description", content: "H&L" },
  
-    { property: "og:title", content: "Duong & Diep" },
-    { property: "og:description", content: "D&D" },
-    { property: "og:image", content: "http://dndwedding.co/og.png" },
+    { property: "og:title", content: "Hang & Loi" },
+    { property: "og:description", content: "H&L" },
+    { property: "og:image", content: "https://hangloi.com/og.png" },
     { property: "og:image:width", content: "1200" },
     { property: "og:image:height", content: "630" },
     { property: "og:type", content: "website" },
-    { property: "og:url", content: "http://dndwedding.co/" },  
+    { property: "og:url", content: "https://hangloi.com/" },
    
     { name: "twitter:card", content: "summary_large_image" },
-    { name: "twitter:title", content: "Duong & Diep" },
-    { name: "twitter:description", content: "D&D" },
-    { name: "twitter:image", content: "http://dndwedding.co/og.png" },
-    { name: "twitter:image:alt", content: "Duong & Diep" },
+    { name: "twitter:title", content: "Hang & Loi" },
+    { name: "twitter:description", content: "H&L" },
+    { name: "twitter:image", content: "https://hangloi.com/og.png" },
+    { name: "twitter:image:alt", content: "Hang & Loi" },
   ],
 });
 </script>

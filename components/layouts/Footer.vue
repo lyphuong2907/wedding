@@ -2,7 +2,7 @@
   <div class="footer top-line">
     <div class="info-row">
       <p class="text-anim footer-description l2" style="text-align: center">
-        <span class="text-anim-line">20.07.2025 @ Vu Duong & Nguyen Diep</span>
+        <span class="text-anim-line">21.12.2025 @ Nguyen Hang & Le Loi</span>
       </p>
     </div>
   </div>

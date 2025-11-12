@@ -14,7 +14,7 @@
         <div class="bank-header">
           <div class="bank-icon">
             <img
-              src="https://qr.sepay.vn/assets/img/banklogo/STB.png"
+              src="https://qr.sepay.vn/assets/img/banklogo/BIDV.png"
               width="150px"
             />
           </div>
@@ -54,25 +54,25 @@
         <div class="bank-header">
           <div class="bank-icon">
             <img
-              src="https://qr.sepay.vn/assets/img/banklogo/VCB.png"
+              src="https://qr.sepay.vn/assets/img/banklogo/BIDV.png"
               width="150px"
             />
           </div>
-          <div class="bank-name">Vietcombank - Ngân hàng TMCP Ngoại Thương Việt Nam</div>
+          <div class="bank-name">BIDV - Ngân hàng BIDV</div>
         </div>
 
         <div class="account-details">
           <div class="detail-row">
             <span class="label">Tên tài khoản:</span>
-            <span class="value">VU VAN DUONG</span>
+            <span class="value">LE DINH LOI</span>
           </div>
           <div style="display: flex;justify-content: space-between; align-items: center;">
             <div class="detail-row" style="flex-shrink: 0;">
               <span class="label">Số tài khoản:</span>
-              <span class="value account-number">0451000515096</span>
+              <span class="value account-number">51110000276498</span>
             </div>
             <button
-              @click="copyAccountNumber('0451000515096')"
+              @click="copyAccountNumber('51110000276498')"
               class="copy-button"
               style="width: 100px;"
               :class="{ copied: isCopied }"
@@ -83,7 +83,7 @@
           <div class="detail-row">
             <span class="label">Mã QR:</span>
             <span class="value">
-              <NuxtImg src="/duong_qr.png" width="150px"></NuxtImg
+              <NuxtImg src="/loi_qr.png" width="150px"></NuxtImg
             ></span>
           </div>
         </div>
@@ -112,7 +112,7 @@ const title = ref("Thông Tin Chuyển Khoản");
 const subtitle = ref("Cảm ơn bạn đã dành thời gian tham dự");
 const bankInfo = ref({
   bankName: "Sacombank - Ngân hàng TMCP Sài Gòn Thương Tín",
-  accountName: "Nguyen Thi Diep",
+  accountName: "Nguyen Thi Hang",
   accountNumber: "020084888886",
 });
 const thankMessage = ref(

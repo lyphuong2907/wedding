@@ -19,16 +19,16 @@ const { rspv, box } = storeToRefs(useConfigStore());
 
       <div class="btn-group">
         <div class="call-to-action__link" @click="rspv = true">
-          <span class="button-inner l2 dark">
+          <span class="button-inner l2">
             <span class="text-wrapper">
-              <span class="button-text">R.S.V.P</span>
+              <span class="button-text">Gửi lời chúc</span>
             </span>
           </span>
         </div>
         <div class="call-to-action__link" @click="box = true">
-          <span class="button-inner l2">
+          <span class="button-inner l2 dark">
             <span class="text-wrapper">
-              <span class="button-text playfair-display">Hộp mừng cưới</span>
+              <span class="button-text playfair-display">Thông Tin Mừng Cưới</span>
             </span>
           </span>
         </div>

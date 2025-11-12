@@ -2,15 +2,16 @@
   <div class="wedding-info">
     <div class="info-item">
       <span class="label pinyon">Lễ Vu Quy</span>
-      <span class="value">11:00, 19/07/2025 - (25/06 âm lịch)</span>
+      <span class="value">11:30, 21/12/2025 - (02/11 âm lịch)</span>
     </div>
     <div class="info-item">
       <span class="label pinyon">Địa điểm</span>
-      <span class="value">Xóm 9 Tân Tiến, Hải Minh, Hải Hậu, Nam Định</span>
+      <span class="value">Xóm 1, Tràng Sơn, Đô Lương, Nghệ An</span>
+      <span class="value">(Nhà Ông Chiến, Bà Hương)</span>
     </div>
     <div class="info-item">
-      <span class="label pinyon">Tiệc</span>
-      <span class="value">11:00, 19/07/2025</span>
+      <span class="label pinyon">Dự Tiệc</span>
+      <span class="value">08:00, 21/12/2025</span>
     </div>
     <slot></slot>
   </div>

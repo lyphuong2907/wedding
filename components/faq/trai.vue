@@ -2,15 +2,16 @@
   <div class="wedding-info">
     <div class="info-item">
       <span class="label pinyon">Lễ Thành Hôn</span>
-      <span class="value">11:00, 20/07/2025 - (26/06 âm lịch)</span>
+      <span class="value">11:30, 21/12/2025 - (02/11 âm lịch)</span>
     </div>
     <div class="info-item">
       <span class="label pinyon">Địa điểm</span>
-      <span class="value">Xóm 31, Hải Minh, Hải Hậu, Nam Định</span>
+      <span class="value">Xóm 3, Văn Sơn, Đô Lương, Nghệ An</span>
+      <span class="value">(Nhà Ông Lam, Bà Nga)</span>
     </div>
     <div class="info-item">
-      <span class="label pinyon">Tiệc</span>
-      <span class="value">11:00, 20/07/2025 </span>
+      <span class="label pinyon">Dự Tiệc</span>
+      <span class="value">09:00, 21/12/2025 </span>
     </div>
     <slot></slot>
   </div>

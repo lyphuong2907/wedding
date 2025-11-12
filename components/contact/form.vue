@@ -14,9 +14,9 @@
       bạn đã dành cho chúng tôi nha!
     </p>
     <div class="alex-brush-regular pen-sign">
-      <span>Vũ Dương</span>
+      <span>Lê Lợi</span>
       <span>&</span>
-      <span>Nguyễn Diệp</span>
+      <span>Nguyễn Hằng</span>
     </div>
   </div>
 </template>
