@@ -4,15 +4,15 @@ import gsap from "gsap";
 const galleryData = ref([
   {
     id: "1",
-    image: "/gallery/v_DSC08647.jpg",
+    image: "/gallery/hl/LỢI HẰNG 16.1104943.jpg",
   },
   {
     id: "2",
-    image: "/gallery/v_DSC08621.jpg",
+    image: "/gallery/hl/LỢI HẰNG 16.1105617.jpg",
   },
   {
     id: "2",
-    image: "/gallery/v_DSC07997.jpg",
+    image: "/gallery/hl/LỢI HẰNG 16.1105282.jpg",
   },
   
 ]);

@@ -4,23 +4,22 @@ export const useSliderStore = defineStore("slider", () => {
   const sliders = ref({
     larger: {
       images: [
-        "/gallery/DSC07770.jpg",
-        "/gallery/DSC07676.jpg",
-        "/gallery/DSC07754.jpg",
+        "/gallery/hl/LỢI HẰNG 16.1105046.jpg",
+          "/gallery/hl/LỢI HẰNG 16.1105504.jpg",
+          "/gallery/hl/LỢI HẰNG 16.1105580.jpg",
       ],
       images_mob: [
-        "/gallery/mb_DSC07770.jpg",
-        "/gallery/mb_DSC07676.jpg",
-        "/gallery/mb_DSC07754.jpg",
+          "/gallery/hl/LỢI HẰNG 16.1105669.jpg",
+          "/gallery/hl/LỢI HẰNG 16.1105282.jpg",
+          "/gallery/hl/LỢI HẰNG 16.1105965.jpg",
       ],
       texts: ["Devotion", "Eternity", "Serendipity"],
     },
     smaller: {
       images: [
-        "/gallery/c_DSC08718.jpg",
-        "/gallery/c_DSC07971.jpg",
-        "/gallery/c_DSC07881.jpg",
-        
+          "/gallery/hl/LỢI HẰNG 16.1104871.jpg",
+          "/gallery/hl/LỢI HẰNG 16.1105386.jpg",
+          "/gallery/hl/LỢI HẰNG 16.1105476.jpg",
       ],
     },
   });
