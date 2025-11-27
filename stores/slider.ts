@@ -11,7 +11,7 @@ export const useSliderStore = defineStore("slider", () => {
       images_mob: [
           "/gallery/hl/LỢI HẰNG 16.1105669.jpg",
           "/gallery/hl/LỢI HẰNG 16.1105282.jpg",
-          "/gallery/hl/LỢI HẰNG 16.1105965.jpg",
+          "/gallery/hl/LỢI HẰNG 16.1104965.jpg",
       ],
       texts: ["Devotion", "Eternity", "Serendipity"],
     },

@@ -45,7 +45,7 @@
           <div class="detail-row">
             <span class="label">Mã QR:</span>
             <span class="value">
-              <NuxtImg src="/diep_qr.png" width="150px"></NuxtImg
+              <NuxtImg src="/qr_hang.jpg" width="150px"></NuxtImg
             ></span>
           </div>
         </div>
@@ -111,9 +111,9 @@ const isCopied = ref(false);
 const title = ref("Thông Tin Chuyển Khoản");
 const subtitle = ref("Cảm ơn bạn đã dành thời gian tham dự");
 const bankInfo = ref({
-  bankName: "Sacombank - Ngân hàng TMCP Sài Gòn Thương Tín",
+  bankName: "MB Bank - Ngân hàng Quân Đội",
   accountName: "Nguyen Thi Hang",
-  accountNumber: "020084888886",
+  accountNumber: "0090107439004",
 });
 const thankMessage = ref(
   "Sự hiện diện của bạn là món quà ý nghĩa nhất với chúng tôi. Xin chân thành cảm ơn!"

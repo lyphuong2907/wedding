@@ -11,7 +11,7 @@ const galleryData = ref([
     image: "/gallery/hl/LỢI HẰNG 16.1105617.jpg",
   },
   {
-    id: "2",
+    id: "3",
     image: "/gallery/hl/LỢI HẰNG 16.1105282.jpg",
   },
   
