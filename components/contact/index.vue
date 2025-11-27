@@ -132,7 +132,7 @@ onMounted(() => {
 
 @media (max-width: 1023px) {
   .photo-inner {
-    background-image: var(--gradient), url(/gallery/x_DSC07846.jpg);
+    background-image: var(--gradient), url("/gallery/hl/LỢI HẰNG 16.1105046.jpg");
   }
 }
 
