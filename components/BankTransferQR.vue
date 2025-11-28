@@ -14,7 +14,7 @@
         <div class="bank-header">
           <div class="bank-icon">
             <img
-              src="https://qr.sepay.vn/assets/img/banklogo/BIDV.png"
+              src="https://qr.sepay.vn/assets/img/banklogo/MB.png"
               width="150px"
             />
           </div>
@@ -34,7 +34,7 @@
               }}</span>
             </div>
             <button
-              @click="copyAccountNumber"
+                @click="copyAccountNumber('0090107439004')"
               class="copy-button"
               style="width: 100px;"
               :class="{ copied: isCopied }"
@@ -45,7 +45,7 @@
           <div class="detail-row">
             <span class="label">Mã QR:</span>
             <span class="value">
-              <NuxtImg src="/qr_hang.jpg" width="150px"></NuxtImg
+              <NuxtImg src="/hang_qr.png" width="150px"></NuxtImg
             ></span>
           </div>
         </div>
