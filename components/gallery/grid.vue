@@ -8,7 +8,7 @@ const galleryData = ref([
   },
   {
     id: "2",
-    image: "/gallery/hl/LỢI HẰNG 16.1105617.jpg",
+    image: "/gallery/PH/conmeo.jpeg",
   },
   {
     id: "3",

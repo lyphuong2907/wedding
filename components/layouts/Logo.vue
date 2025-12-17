@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <span class="logo2"> H&L </span>
+  <span class="logo2"> P&H </span>
 </template>
 <style scoped>
 .logo2 {
