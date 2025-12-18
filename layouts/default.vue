@@ -20,16 +20,15 @@ useHead({
  
     { property: "og:title", content: "Phương & Huyền" },
     { property: "og:description", content: "P&H" },
-    { property: "og:image", content: "https://hangloi.com/og.png" },
+    { property: "og:image", content: "/thumb.jpg" },
     { property: "og:image:width", content: "1200" },
     { property: "og:image:height", content: "630" },
     { property: "og:type", content: "website" },
-    { property: "og:url", content: "https://hangloi.com/" },
-   
+     
     { name: "twitter:card", content: "summary_large_image" },
     { name: "twitter:title", content: "Phương & Huyền" },
     { name: "twitter:description", content: "P&H" },
-    { name: "twitter:image", content: "https://hangloi.com/og.png" },
+    { name: "twitter:image", content: "/thumb.jpg" },
     { name: "twitter:image:alt", content: "Phương & Huyền" },
   ],
 });

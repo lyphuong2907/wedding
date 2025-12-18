@@ -20,16 +20,15 @@ useHead({
     // Open Graph meta tags
     { property: "og:title", content: "Phương & Huyền" },
     { property: "og:description", content: "P&H" },
-    { property: "og:image", content: "/og.png" },
+    { property: "og:image", content: "/thumb.jpg" },
     { property: "og:image:width", content: "1200" },
     { property: "og:image:height", content: "630" },
     { property: "og:type", content: "website" },
-    { property: "og:url", content: "https://hangloi.com/" },
-    // Twitter Card meta tags
+        // Twitter Card meta tags
     { name: "twitter:card", content: "summary_large_image" },
     { name: "twitter:title", content: "Phương & Huyền" },
     { name: "twitter:description", content: "P&H" },
-    { name: "twitter:image", content: "/og.png" },
+    { name: "twitter:image", content: "/thumb.jpg" },
     { name: "twitter:image:alt", content: "Phương & Huyền" },
   ],
 });
