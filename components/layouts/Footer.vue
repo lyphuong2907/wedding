@@ -2,7 +2,7 @@
   <div class="footer top-line">
     <div class="info-row">
       <p class="text-anim footer-description l2" style="text-align: center">
-        <span class="text-anim-line">04.01.2026 @ Viet Phương & Thuong Huyen</span>
+        <span class="text-anim-line">04.01.2026 @ Viet Phuong & Thuong Huyen</span>
       </p>
     </div>
   </div>
