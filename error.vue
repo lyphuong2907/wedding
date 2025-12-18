@@ -14,12 +14,12 @@ const handlePreloaderDone = () => {
   }
 };
 useHead({
-  title: "Hang & Loi",
+  title: "Phương & Huyền",
   meta: [
-    { name: "description", content: "H&L" },
+    { name: "description", content: "P&H" },
     // Open Graph meta tags
-    { property: "og:title", content: "Hang & Loi" },
-    { property: "og:description", content: "H&L" },
+    { property: "og:title", content: "Phương & Huyền" },
+    { property: "og:description", content: "P&H" },
     { property: "og:image", content: "/og.png" },
     { property: "og:image:width", content: "1200" },
     { property: "og:image:height", content: "630" },
@@ -27,10 +27,10 @@ useHead({
     { property: "og:url", content: "https://hangloi.com/" },
     // Twitter Card meta tags
     { name: "twitter:card", content: "summary_large_image" },
-    { name: "twitter:title", content: "Hang & Loi" },
-    { name: "twitter:description", content: "H&L" },
+    { name: "twitter:title", content: "Phương & Huyền" },
+    { name: "twitter:description", content: "P&H" },
     { name: "twitter:image", content: "/og.png" },
-    { name: "twitter:image:alt", content: "Hang & Loi" },
+    { name: "twitter:image:alt", content: "Phương & Huyền" },
   ],
 });
 </script>
