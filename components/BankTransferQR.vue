@@ -34,7 +34,7 @@
               }}</span>
             </div>
             <button
-                @click="copyAccountNumber('0090107439004')"
+                @click="copyAccountNumber('4440144444953')"
               class="copy-button"
               style="width: 100px;"
               :class="{ copied: isCopied }"
@@ -72,7 +72,7 @@
               <span class="value account-number">6960111206666</span>
             </div>
             <button
-              @click="copyAccountNumber('51110000276498')"
+              @click="copyAccountNumber('6960111206666')"
               class="copy-button"
               style="width: 100px;"
               :class="{ copied: isCopied }"
