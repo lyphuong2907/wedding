@@ -13,7 +13,7 @@ const { rspv, box } = storeToRefs(useConfigStore());
       </p>
       <br />
       <p class="text-anim call-to-action__title">
-        <span class="text-anim-line"> Chân thành cảm ơn bạn rất nhiều! </span>
+        <span class="text-anim-line"> Gia đình chúng tôi xin chân thành cảm ơn rất nhiều! </span>
       </p>
 
       <div class="btn-group">
