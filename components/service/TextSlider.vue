@@ -303,7 +303,7 @@
   
   <style scoped>
   .title-wrapper {
-    bottom: 50%;
+    bottom: 30%;
     left: 50%;
     pointer-events: none;
     position: absolute;

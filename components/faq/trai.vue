@@ -50,7 +50,7 @@ export default {
 }
 .value {
   flex: 2;
-  text-align: right;
+  text-align: center;
   font-size: 18px;
 }
 @media (max-width: 1280px) {

@@ -6,14 +6,13 @@ const { rspv, box } = storeToRefs(useConfigStore());
 <template>
   <section class="note">
     <div class="call-to-action contact-block">
-      <p class="p2 text-anim call-to-action__title">
+      <p class="text-anim call-to-action__title">
         <span class="text-anim-line">
-          Nếu có thể, bạn hãy đến tham dự Đám cưới và chung vui cùng chúng tôi
-           ^^.
+          Sự xuất hiện của quý vị là vinh hạnh của gia đình chúng tôi.
         </span>
       </p>
       <br />
-      <p class="p2 text-anim call-to-action__title">
+      <p class="text-anim call-to-action__title">
         <span class="text-anim-line"> Chân thành cảm ơn bạn rất nhiều! </span>
       </p>
 
@@ -40,6 +39,7 @@ const { rspv, box } = storeToRefs(useConfigStore());
   padding: 5.25rem 0.75rem 3.5rem;
   display: flex;
   justify-content: center;
+  text-align: center
 }
 .call-to-action {
   border-left: 1px solid var(--c-base-1000-20);

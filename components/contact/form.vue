@@ -1,6 +1,6 @@
 <template>
-  <div class="signature playfair-display">
-    <NuxtImg src="/ring.png" width="70" style="margin: 20px auto" />
+  <div class="signature playfairx-display">
+    <NuxtImg src="/Rings1.png" width="150" style="margin: 20px auto" />
     <p>
       Thật vui vì được gặp và đón tiếp mọi người trong ngày
       cưới của chúng tôi.
