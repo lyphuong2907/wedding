@@ -20,7 +20,7 @@
 <script lang="ts" setup>
 import gsap from "gsap";
 
-const targetDate = new Date("2025-07-20 12:00:00");
+const targetDate = new Date("2026-01-04 13:00:00");
 
 const time = reactive({
   hours: "",

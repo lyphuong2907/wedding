@@ -30,8 +30,8 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
 const data = ref({
   title: "Save the date",
-  description: "Chủ nhật, 21 tháng 12, 2025",
-  caption: "Van Son, Do Luong, Nghe An",
+  description: "Chủ Nhật, 04 tháng 01, 2026",
+  caption: "Xã Tiền Hải, Tỉnh Hưng Yên",
 });
 onMounted(() => {
   gsap.fromTo(

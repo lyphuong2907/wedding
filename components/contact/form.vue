@@ -2,7 +2,7 @@
   <div class="signature playfair-display">
     <NuxtImg src="/ring.png" width="70" style="margin: 20px auto" />
     <p>
-      Thật vui vì được gặp và đón tiếp các bạn trong ngày
+      Thật vui vì được gặp và đón tiếp mọi người trong ngày
       cưới của chúng tôi.
     </p>
     <p>
@@ -14,9 +14,9 @@
       bạn đã dành cho chúng tôi nha!
     </p>
     <div class="alex-brush-regular pen-sign">
-      <span>Lê Lợi</span>
+      <span>Việt Phương</span>
       <span>&</span>
-      <span>Nguyễn Hằng</span>
+      <span>Thương Huyền</span>
     </div>
   </div>
 </template>

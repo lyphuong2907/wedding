@@ -45,7 +45,7 @@
           <div class="detail-row">
             <span class="label">Mã QR:</span>
             <span class="value">
-              <NuxtImg src="/hang_qr.png" width="150px"></NuxtImg
+              <NuxtImg src="/QR-phuong.png" width="150px"></NuxtImg
             ></span>
           </div>
         </div>
@@ -54,22 +54,22 @@
         <div class="bank-header">
           <div class="bank-icon">
             <img
-              src="https://qr.sepay.vn/assets/img/banklogo/BIDV.png"
+              src="https://qr.sepay.vn/assets/img/banklogo/MB.png"
               width="150px"
             />
           </div>
-          <div class="bank-name">BIDV - Ngân hàng BIDV</div>
+          <div class="bank-name">MB Bank - Ngân Hàng Quân Đội</div>
         </div>
 
         <div class="account-details">
           <div class="detail-row">
             <span class="label">Tên tài khoản:</span>
-            <span class="value">LE DINH LOI</span>
+            <span class="value">Ngo Thi Thuong Huyen</span>
           </div>
           <div style="display: flex;justify-content: space-between; align-items: center;">
             <div class="detail-row" style="flex-shrink: 0;">
               <span class="label">Số tài khoản:</span>
-              <span class="value account-number">51110000276498</span>
+              <span class="value account-number">6960111206666</span>
             </div>
             <button
               @click="copyAccountNumber('51110000276498')"
@@ -83,7 +83,7 @@
           <div class="detail-row">
             <span class="label">Mã QR:</span>
             <span class="value">
-              <NuxtImg src="/loi_qr.png" width="150px"></NuxtImg
+              <NuxtImg src="/qr-huyen.png" width="150px"></NuxtImg
             ></span>
           </div>
         </div>
@@ -112,8 +112,8 @@ const title = ref("Thông Tin Chuyển Khoản");
 const subtitle = ref("Cảm ơn bạn đã dành thời gian tham dự");
 const bankInfo = ref({
   bankName: "MB Bank - Ngân hàng Quân Đội",
-  accountName: "Nguyen Thi Hang",
-  accountNumber: "0090107439004",
+  accountName: "Ly Viet Phuong",
+  accountNumber: "4440144444953",
 });
 const thankMessage = ref(
   "Sự hiện diện của bạn là món quà ý nghĩa nhất với chúng tôi. Xin chân thành cảm ơn!"

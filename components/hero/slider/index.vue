@@ -24,33 +24,33 @@ const triggers: any[] = [];
 // Hardcoded image data from HTML
 const images = ref([
   {
-    original: "/gallery/hl/LỢI HẰNG 16.1104799.jpg",
-    thumbnail: "/gallery/hl/LỢI HẰNG 16.1104799.jpg",
+    original: "/gallery/PH/AN_02994.jpg",
+    thumbnail: "/gallery/PH/AN_02994.jpg",
     width: 500,
     height: 500,
   },
   {
-    original: "/gallery/hl/LỢI HẰNG 16.1104892.jpg",
-    thumbnail: "/gallery/hl/LỢI HẰNG 16.1104892.jpg",
+    original: "/gallery/PH/AN_03046.jpg",
+    thumbnail: "/gallery/PH/AN_03046.jpg",
     width: 500,
     height: 500,
   },
 
   {
-    original: "/gallery/hl/LỢI HẰNG 16.1105046.jpg",
-    thumbnail: "/gallery/hl/LỢI HẰNG 16.1105046.jpg",
+    original: "/gallery/PH/AN_03146.jpg",
+    thumbnail: "/gallery/PH/AN_03146.jpg",
     width: 500,
     height: 500,
   },
   {
-    original: "/gallery/hl/LỢI HẰNG 16.1105218.jpg",
-    thumbnail: "/gallery/hl/LỢI HẰNG 16.1105218.jpg",
+    original: "/gallery/PH/AN_02781.jpg",
+    thumbnail: "/gallery/PH/AN_02781.jpg",
     width: 500,
     height: 500,
   },
   {
-    original: "/gallery/hl/LỢI HẰNG 16.1104965.jpg",
-    thumbnail: "/gallery/hl/LỢI HẰNG 16.1104965.jpg",
+    original: "/gallery/PH/AN_02903.jpg",
+    thumbnail: "/gallery/PH/AN_02903.jpg",
     width: 500,
     height: 500,
   },

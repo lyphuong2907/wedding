@@ -2,16 +2,15 @@
   <div class="wedding-info">
     <div class="info-item">
       <span class="label pinyon">Lễ Vu Quy</span>
-      <span class="value">11:30, 21/12/2025 - (02/11 âm lịch)</span>
+      <span class="value">13:00, 04/01/2026 - (16/11 âm lịch)</span>
     </div>
     <div class="info-item">
       <span class="label pinyon">Địa điểm</span>
-      <span class="value">Xóm 1, Tràng Sơn, Đô Lương, Nghệ An</span>
-      <span class="value">(Nhà Ông Chiến, Bà Hương)</span>
-    </div>
+      <span class="value">SN 68, đường Nguyễn Trung Khuyến, TDP 4, xã Tiền Hải, tỉnh Hưng Yên</span>
+          </div>
     <div class="info-item">
       <span class="label pinyon">Dự Tiệc</span>
-      <span class="value">08:00, 21/12/2025</span>
+      <span class="value">10:00, 04/01/2026</span>
     </div>
     <slot></slot>
   </div>
