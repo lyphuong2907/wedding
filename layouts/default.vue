@@ -20,7 +20,7 @@ useHead({
  
     { property: "og:title", content: "Việt Phương & Thương Huyền - Save The Date" },
     { property: "og:description", content: "Sự hiện diện của quý khách là vinh dự của gia đình chúng tôi" },
-    { property: "og:image", content: "/thumb.jpg" },
+    { property: "og:image", content: "https://phuonghuyen.love/thumb.jpg" },
     { property: "og:image:width", content: "1200" },
     { property: "og:image:height", content: "630" },
     { property: "og:type", content: "website" },
@@ -28,7 +28,7 @@ useHead({
     { name: "twitter:card", content: "summary_large_image" },
     { name: "twitter:title", content: "Việt Phương & Thương Huyền - Save The Date" },
     { name: "twitter:description", content: "Sự hiện diện của quý khách là vinh dự của gia đình chúng tôi" },
-    { name: "twitter:image", content: "/thumb.jpg" },
+    { name: "twitter:image", content: "https://phuonghuyen.love/thumb.jpg" },
     { name: "twitter:image:alt", content: "Việt Phương & Thương Huyền - Save The Date" },
   ],
 });
